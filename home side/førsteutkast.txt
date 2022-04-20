@@ -1,0 +1,2 @@
+førsteutkast fra homepagen:
+må sjekke om snap animation kan funke både på pc og mobil
